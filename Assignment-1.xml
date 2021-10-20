@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<catalogue>
+
+    <book category="Technical-Books"> 
+		<ISBN-10>0241258766</ISBN-10> 
+		<ISBN-13>978-0241398630</ISBN-13> 			
+		<Title>The Art of Statistics</Title> 
+		<Author>David Spiegelhalter</Author> 
+    </book>
+
+	 <book category="Technical-Books">
+		<ISBN-10>1119387507</ISBN-10> 
+		<ISBN-13>978-1119387503</ISBN-13> 			
+		<Title>Inspired</Title> 
+		<Author>Marty Cagan</Author> 
+	</book>     
+
+    <book category="Cookery-Books"> 
+		<ISBN-10>0241371449</ISBN-10> 
+		<ISBN-13> 978-1443464895</ISBN-13> 			
+		<Title>Jamies' Friday Night Feast</Title> 
+		<Author>Jamie Oliver</Author> 
+	</book>
+
+	<book category="Cookery-Books">
+		<ISBN-10>1538707810</ISBN-10> 
+		<ISBN-13>978-1538707814</ISBN-13> 			
+		<Title>Ramsay in 10</Title> 
+		<Author>Gordon Ramsay</Author> 
+	</book>   
+  
+</catalogue>
+
+
